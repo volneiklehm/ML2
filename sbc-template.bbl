@@ -1,0 +1,20 @@
+\begin{thebibliography}{}
+
+\bibitem[Cortes and Vapnik 1995]{cortes:95}
+Cortes, C. and Vapnik, V. (1995).
+\newblock Support-vector networks.
+\newblock {\em Machine Learning}, 20(3):273--297.
+
+\bibitem[Guyon et~al. 2002]{guyon:02}
+Guyon, I., Weston, J., Barnhill, S., and Vapnik, V. (2002).
+\newblock Gene selection for cancer classification using support vector
+  machines.
+\newblock {\em Machine Learning}, 46(1):389--422.
+
+\bibitem[Raschka and Mirjalili 2019]{raschka:19}
+Raschka, S. and Mirjalili, V. (2019).
+\newblock {\em Python Machine Learning: Machine Learning and Deep Learning with
+  Python, scikit-learn, and TensorFlow 2}.
+\newblock Packt Publishing, 3rd edition.
+
+\end{thebibliography}
